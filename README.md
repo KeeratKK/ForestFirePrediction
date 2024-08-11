@@ -10,12 +10,11 @@ This project consists of three main parts:
 Together these three parts are combined into one main interactive program for the user to experiment with the data and simulate the models as they would be used in the real-world (ModelVisualizer.ipynb). By first using the exploratory
 data analysis and predicted radiative power, users would know the optimal location to set up the detection model created in the forest_fire_localizer notebook.
 
-
-https://github.com/user-attachments/assets/5afcbf62-4eab-4311-b5cf-d4681e60299c
-
-
-
 https://github.com/user-attachments/assets/db79a343-9d31-4751-b1b4-ef99683e34bc
+
+
+
+https://github.com/user-attachments/assets/ffb15e11-0129-4b48-b9f3-aa12a9ab166c
 
 
 
