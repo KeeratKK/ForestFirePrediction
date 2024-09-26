@@ -1,7 +1,4 @@
-# capstone_firepred
-MAD2502 capstone project
-
-## Project Overview 
+# Project Overview 
 This project consists of three main parts:
 1. Forest Fire Exploratory Data Analysis (californiafire_analysis notebook)
 2. Predicting Fire Radiative Power Given Meteorological Data (predict_fire_radiative_power notebook)
